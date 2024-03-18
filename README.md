@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hey there! I am a Computer Engineering student at McGill University with a passion for all things math and ML. <br>
+🔭 Hey there! I am a Computer Engineering student at McGill University with a passion for all things math and ML. I am still very much new at software development, so my code isn't the best, but I hope to continue to upload projects of higher and higher quality on this page. <br>
 
 
 ## 🌐 Socials:
